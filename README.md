@@ -6,7 +6,11 @@
 
 <h2 align="center"> 👨‍💻 Who I Am</h2>
 <p align="center">
-  <samp>Hi!
+  <samp>Developing a product with identity, love and affection are some of my virtues when working.
+I am effective with time management, both with work teams and with myself.
+I stand out in work teams because of my passion for teaching and learning about technology, which is why it is very common for you to see me collaborating in multiple teams.</p>
+<p align="center">
+<samp>Would you like to hire me and witness my love for IT?
   </samp>
   <br> <br>
   <img src="https://komarev.com/ghpvc/?username=BrunoBuona" alt="visit counter" />
