@@ -4,7 +4,7 @@
 </div>
 <p align="center"> (Open for Hiring)</p>
 
-<h2 align="center"> 👨‍💻 Who I Am</h2>
+<h2 align="center"> 👨‍💻 About Me </h2>
 <p align="center">
   <samp>Developing a product with identity, love and affection are some of my virtues when working.
 I am effective with time management, both with work teams and with myself.
