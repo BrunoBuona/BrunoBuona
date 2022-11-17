@@ -6,20 +6,15 @@
 
 <h2 align="center"> 👨‍💻 Who I Am</h2>
 <p align="center">
-  <samp>To edit...
+  <samp>Hi!
   </samp>
   <br> <br>
-  <img src="https://komarev.com/ghpvc/?username=ileriayo" alt="https://github.com/ileriayo" />
+  <img src="https://komarev.com/ghpvc/?username=BrunoBuona" alt="visit counter" />
 </p>
 
 <hr>
 
-<h2 align="center"> 🔭 Tools of Trade</h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/react%20-%2300D9FF.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-Bootstrap-blue" />&nbsp;&nbsp;
-</p>
+<h2 align="center"> 🔭 Stacks </h2>
 <p align="center">HTML, CSS, JavaScript, Bootstrap, MongoDB, ExpressJS, ReactJS, React Native, NodeJS, Git, GitHub, Redux, Postman, Selenium.</p>
 
 
