@@ -1,4 +1,4 @@
-<h1 align="center"> 👋 </h1>
+
 <div align="center">
   <img src="https://i.ibb.co/BVrCRCy/Hello-im-Bruno.png" alt="header"/>
 </div>
