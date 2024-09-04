@@ -1,17 +1,36 @@
-<div align="center">
-<h1 align="center">Soy <a href="#">Hyrah.</a> 👋</h1>
-</div>
+Hola, mi nombre es Bruno Buonassisa👋
+### Freelance Full-Stack Web Engineer
 
-### 5 cosas sobre mi:
+![GitHub Followers](https://img.shields.io/github/followers/BrunoBuona?style=social)
+![GitHub Followers](https://img.shields.io/github/stars/BrunoBuona?style=social)
 
-  1- Conozco de manera muy tecnica el lenguaje MERN y especialmente su aplicación en paginas web para clientes reales. Mis conceptos teoricos son aceptables especialmente teniendo en cuenta que para el unico fin que los utilizo es explicarle al cliente basicamente que es lo que estamos haciendo en su web, sin usar conceptos tecnicos lo cual es excelente para personas sin conocimientos. Mi mejor manera de respaldar mi trabajo es con codigo efectivo compacto y rapido. Soy fan del coding modular e intento aplicarlo en todas mis aplicaciones reduciendo el trabajo un 60%. El resto del tiempo lo dedico especialmente al design, sobretodo al design mobile. Por estos hechos es que mi perfil coincide con el titulo de 'Ingeniero de Software' al ser un perfil completo para lo que se requiere hoy en dia en la industria de software. Yo me autocatalogo como Semi Senior por mi experiencia de más de dos años dentro de la industria.
-  
-  2- Fui profesor de JS y de MERN durante 2022 aproximadamente 6 meses, esta experiencia fue determinante para mi carrera porque además de conseguir conexiones de alto valor, logré solidificar mis conocimientos teoricos convirtiendo mi perfil de Junior en Semi Senior al menos a nivel teorico. Destaco sobretodo mi lado teorico porque acá tambien aprendí a tener conversaciones mas persuasivas con clientes dado que no tenia los traspies de no saber exactamente que decir. En este aspecto mi perfil se puede adaptar tambien perfectamente a Coaching o Ventas.
+Soy ingeniero de software profesional desde 2022.
 
-  3- Mi nombre no es un apodo. Hyrah para impresión de muchas personas, es oficialmente mi nombre. Esto por supuesto es polemico para algunas empresas, personas o puestos de trabajo.
-evidentemente en ocasiones es más importante un nombre que la persona que esta detrás. Mi genero biologico es Masculino, pero podes referirte a mi de cualquiera de las dos maneras. Para mis jefes, supervisores, compañeros, clientes, amigos y familia soy Hyrah, lamento si en tu empresa esto es un inconveniente para la contratación. De paso respondo dudas frecuentes de recruiters, al ser de argentina claro que tengo un DNI y mi DNI figura un nombre con un apellido, para lo unico que utilizo estos elementos son para cuestiones burocraticas o de contratación, pero bajo ningún concepto acepto que me llamen por estos valores.
+Desde mis inicios trabajé de manera freelancer, creando [HU-CODE](https://hu-code.vercel.app) en 2023 con el nombre de EzKodigo y finalmente renovado a HU-CODE en 2024, para dedicarme a desarrollar aplicaciones web a tiempo completo, llegando a colaborar con empresas de distintas partes del mundo y más de 1000 clientes independientes. 
+He desarrollado personalmente más de 60 proyectos y he creado mi propia startup con más de +2300 clientes en la actualidad.
 
-  4- Al igual que mi apodo, tengo un trastorno mental que no tengo problema en declarar pero evidentemente es razón de problema en cuestiones de recruiting. Tengo BPD y TEPT. Estos trastornos hasta ahora, en mis 22 años de vida, nunca me afectaron a nivel laboral y siempre lo dejo en claro, pero me dieron de baja de procesos solo por esto... 2024 🤢.
+En 2024, HU-CODE aumentó su personal de 2 empleados a inicios de Enero, a 1400 empleados en Septiembre.
+Sus ventas aumentarón de 12.000 dolares por año, a 780.000 dolares por año.
+Pasaron de tener 2-4 clientes por mes, a tener +80 clientes por mes. 
+Asi mismo, su sistema de desarrollo evolucionó a un nivel tal que con menos de 50 desarrolladores en el equipo, 
+es posible realizar más de 100 paginas web por mes con una jornada horaria normal, de **lunes a viernes**, de **06:00hs a 10:00hs**.
 
-  5- Actualmente estoy creando un servicio medico en linea de psicologia gratuito y sin fines de lucro. Acepto colaboradores, contribuidores y más. Hablame por whatsapp.
-  +54 9 11 2395-1714
+Nuestros empleados tienen los mejores beneficios de todo el mundo, por ello tenemos nuevos ingresos de personal todos los dias.
+Algunos de nuestros beneficios:
+
+- 📒 Jornada laboral corta. Solo cuatro horas por dia.
+- 📕 Descanso extenso. Dos dias de descanso. El Sabado y el Domingo.
+- 📘 Salario superior a cualquier trabajo de la actualidad que no requiera estudios e incluso algunos que si lo requieren.
+- 📙 A diferencia de otras empresas, HUCO le paga a sus empleados por semana. 
+- 📗 Sistema de logros, compensaciones, bonificaciones y adicionales que incrementan el salario mensual hasta x40 veces de manera temporal o permanente.
+
+Es por esto y mucho más es que cientos de personas nos eligen diariamente para trabajar con nosotros.
+Adicionalmente, dominamos el mercado IT por los siguientes beneficios para los clientes:
+
+- 🎀 Soporte completo y permanente para todos sus proyectos.
+- 🚀 Desarrollo rapido, mantenimiento efectivo y veloz, y precios bajos.
+- 👑 Sistema de Fidelidad que les permite ahorrar miles de dolares por año.
+- 💎 Paginas Webs y servicios adicionales de la más alta calidad en 2024.
+
+Tanto si querés trabajar con nosotros, como si queres que tu proyecto lo hagamos nosotros, contactanos desde nuestra pagina web.
+https://hu-code.vercel.app
